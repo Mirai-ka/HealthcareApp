@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_konidin.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_konidin.png"
+    },
+    {
+        "merged": "com.example.healthcare.app-debug-44:/layout_fragment_home.xml.flat",
+        "source": "com.example.healthcare.app-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_profile.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_pharmacy.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_pharmacy.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_indicator_inactive.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\indicator_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_obh_combi.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_obh_combi.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_bodrexin.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_bodrexin.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_bodrex.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_bodrex.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_heart_rate.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_heart_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_gradient_bg.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\gradient_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_faq.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_faq.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_location.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_search_background.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_pharmacy.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\pharmacy.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_person.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_doctor2.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\doctor2.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_appointment.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_appointment.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_item_service.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\item_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_logout.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_next.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_reports.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_reports.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_bookmark.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_location_pin.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_location_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_doctor_detail.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_doctor_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_item_article.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\item_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_doctor.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_indicator_active.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\indicator_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_facebook.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_success.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_success.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_profile_avatar.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_profile_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_onboarding1.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_onboarding1.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_fragment_reports.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\fragment_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_top_doctors.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_top_doctors.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_quantity_button_selector.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\quantity_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_download.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_button_social_bg.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\button_social_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_star.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_heart_cross.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_heart_cross.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_fragment_doctors.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\fragment_doctors.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\menu_top_app_bar.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\menu\\top_app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_doctor.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_lock.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_betadine.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_betadine.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_google.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_payment.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_main_container.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_main_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_email.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_report.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_report.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_doctor_profile.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_doctor_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_onboarding3.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_onboarding3.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_ambulance.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_ambulance.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_visa.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_visa.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_sale_tag.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_sale_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ambulence.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ambulence.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_reports.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_panadol.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_panadol.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_ambulance.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_checkout_button_bg.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\checkout_button_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_arrow_back.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_onboarding2.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_onboarding2.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-pngs-40:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_payment_success.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_payment_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_heart_logo.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_heart_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_item_doctor.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\item_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_saved.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_saved.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_quantity_selector_bg.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\quantity_selector_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_pharmacy.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_pharmacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_no_data.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_no_data.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\drawable_ic_blood_group.png.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\drawable\\ic_blood_group.png"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\layout_activity_doctors.xml.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\layout\\activity_doctors.xml"
+    },
+    {
+        "merged": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-debug-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CoordinatedTurn\\.gradle\\daemon\\8.12\\com.example.healthcare.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]

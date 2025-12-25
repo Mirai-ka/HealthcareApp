@@ -1,0 +1,213 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.healthcare"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <permission
+11-->[androidx.core:core:1.13.1] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\25ffeef6eca59f6db00c45d56e2c8b01\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.healthcare.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.13.1] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\25ffeef6eca59f6db00c45d56e2c8b01\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.13.1] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\25ffeef6eca59f6db00c45d56e2c8b01\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.healthcare.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.13.1] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\25ffeef6eca59f6db00c45d56e2c8b01\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.13.1] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\25ffeef6eca59f6db00c45d56e2c8b01\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:5:5-70:19
+18        android:allowBackup="true"
+18-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.13.1] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\25ffeef6eca59f6db00c45d56e2c8b01\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:7:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:8:9-41
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:9:9-40
+26
+27        <!-- Splash Activity - главный экран запуска -->
+28        <activity
+28-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:13:9-21:20
+29            android:name="com.example.healthcare.SplashActivity"
+29-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:14:13-43
+30            android:exported="true"
+30-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:15:13-36
+31            android:theme="@style/AppTheme.Launcher" >
+31-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:16:13-53
+32            <intent-filter>
+32-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:17:13-20:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:18:17-69
+33-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:18:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:19:17-77
+35-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:19:27-74
+36            </intent-filter>
+37        </activity>
+38
+39        <!-- Main Container Activity с Bottom Navigation -->
+40        <activity
+40-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:24:9-26:40
+41            android:name="com.example.healthcare.MainContainerActivity"
+41-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:25:13-50
+42            android:exported="false" />
+42-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:26:13-37
+43
+44        <!-- Auth Activities -->
+45        <activity
+45-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:29:9-33:58
+46            android:name="com.example.healthcare.LoginActivity"
+46-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:30:13-42
+47            android:exported="false"
+47-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:31:13-37
+48            android:theme="@style/AppTheme.NoActionBar"
+48-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:32:13-56
+49            android:windowSoftInputMode="adjustResize" />
+49-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:33:13-55
+50        <activity
+50-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:35:9-39:58
+51            android:name="com.example.healthcare.RegisterActivity"
+51-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:36:13-45
+52            android:exported="false"
+52-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:37:13-37
+53            android:theme="@style/AppTheme.NoActionBar"
+53-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:38:13-56
+54            android:windowSoftInputMode="adjustResize" />
+54-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:39:13-55
+55
+56        <!-- Feature Activities -->
+57        <activity
+57-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:42:9-44:40
+58            android:name="com.example.healthcare.DoctorsActivity"
+58-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:43:13-44
+59            android:exported="false" />
+59-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:44:13-37
+60        <activity
+60-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:46:9-48:40
+61            android:name="com.example.healthcare.PharmacyActivity"
+61-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:47:13-45
+62            android:exported="false" />
+62-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:48:13-37
+63        <activity
+63-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:50:9-52:40
+64            android:name="com.example.healthcare.AmbulanceActivity"
+64-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:51:13-46
+65            android:exported="false" />
+65-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:52:13-37
+66        <activity
+66-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:54:9-56:40
+67            android:name="com.example.healthcare.ProductDetailActivity"
+67-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:55:13-50
+68            android:exported="false" />
+68-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:56:13-37
+69        <activity
+69-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:58:9-60:40
+70            android:name="com.example.healthcare.CartActivity"
+70-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:59:13-41
+71            android:exported="false" />
+71-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:60:13-37
+72        <activity
+72-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:62:9-64:40
+73            android:name="com.example.healthcare.PaymentSuccessActivity"
+73-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:63:13-51
+74            android:exported="false" />
+74-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:64:13-37
+75        <activity
+75-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:66:9-68:40
+76            android:name="com.example.healthcare.DoctorDetailActivity"
+76-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:67:13-49
+77            android:exported="false" />
+77-->C:\Users\CoordinatedTurn\Desktop\Healthcare_Project\app\src\main\AndroidManifest.xml:68:13-37
+78
+79        <provider
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\6c9717b849fcad4dd51df8a06563b3cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\6c9717b849fcad4dd51df8a06563b3cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+81            android:authorities="com.example.healthcare.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\6c9717b849fcad4dd51df8a06563b3cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\6c9717b849fcad4dd51df8a06563b3cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\6c9717b849fcad4dd51df8a06563b3cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\6c9717b849fcad4dd51df8a06563b3cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\6c9717b849fcad4dd51df8a06563b3cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\da36bc4697a801fae915ae5923e4633c\transformed\jetified-lifecycle-process-2.9.0\AndroidManifest.xml:29:13-31:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\da36bc4697a801fae915ae5923e4633c\transformed\jetified-lifecycle-process-2.9.0\AndroidManifest.xml:30:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\da36bc4697a801fae915ae5923e4633c\transformed\jetified-lifecycle-process-2.9.0\AndroidManifest.xml:31:17-49
+89            <meta-data
+89-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+90                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+91                android:value="androidx.startup" />
+91-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+92        </provider>
+93
+94        <uses-library
+94-->[androidx.window:window:1.0.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\ce850f2e0c72978f9c54e0d62401c6f8\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+95            android:name="androidx.window.extensions"
+95-->[androidx.window:window:1.0.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\ce850f2e0c72978f9c54e0d62401c6f8\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+96            android:required="false" />
+96-->[androidx.window:window:1.0.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\ce850f2e0c72978f9c54e0d62401c6f8\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+97        <uses-library
+97-->[androidx.window:window:1.0.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\ce850f2e0c72978f9c54e0d62401c6f8\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+98            android:name="androidx.window.sidecar"
+98-->[androidx.window:window:1.0.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\ce850f2e0c72978f9c54e0d62401c6f8\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+99            android:required="false" />
+99-->[androidx.window:window:1.0.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\ce850f2e0c72978f9c54e0d62401c6f8\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+100
+101        <receiver
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+102            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+103            android:directBootAware="false"
+103-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+104            android:enabled="true"
+104-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+105            android:exported="true"
+105-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+106            android:permission="android.permission.DUMP" >
+106-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+108                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+109            </intent-filter>
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+111                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+114                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+117                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CoordinatedTurn\.gradle\caches\8.12\transforms\3fd4c0250149c8617d856b7b72b3fd1b\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+118            </intent-filter>
+119        </receiver>
+120    </application>
+121
+122</manifest>
